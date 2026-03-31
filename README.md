@@ -6,10 +6,18 @@
 
 目标只有一个：帮助读者建立稳定的源码心智模型，而不是在海量 TypeScript 文件里迷路。
 
+## 快速入口
+
+- [开始阅读](./chapters/00-前言.md)
+- [全书目录](./SUMMARY.md)
+- [章节导航页](./Claude-Code源码精讲.md)
+- [最新 Release](https://github.com/ohmuyi/claude-code-source-guide/releases)
+- [开源许可](./LICENSE)
+
 ## 对应源码
 
 - 公开源码仓库：<https://github.com/ohmuyi/claude-codes/tree/main/src>
-- 源码与书稿分开维护，详细说明见 [SOURCE.md](./SOURCE.md)
+- 书稿与源码分开维护，详细说明见 [SOURCE.md](./SOURCE.md)
 
 ## 这本书适合谁
 
@@ -32,12 +40,6 @@
 
 4. 协议接入、生态与长期运行  
 覆盖 MCP、远程会话、记忆、技能、插件与 compact。
-
-## 开始阅读
-
-- [前言](./chapters/00-前言.md)
-- [全书目录](./SUMMARY.md)
-- [章节导航页](./Claude-Code源码精讲.md)
 
 如果你是第一次阅读，建议顺序是：`前言 -> 目录 -> 第一章开始`。
 
